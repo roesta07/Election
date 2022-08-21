@@ -1,0 +1,951 @@
+,year,State,demStatus,dem_vote_share,demCandidatePresent,repCandidatePresent
+0,1982,alabama,,,,
+1,1982,alaska,,,,
+2,1982,arkansas,,,,
+3,1982,colorado,,,,
+4,1982,delaware,challenger,0.4448174105496127,True,True
+5,1982,georgia,,,,
+6,1982,idaho,,,,
+7,1982,illinois,,,,
+8,1982,iowa,,,,
+9,1982,kansas,,,,
+10,1982,kentucky,,,,
+11,1982,louisiana,,,,
+12,1982,maine,challenger,0.608697827500919,True,True
+13,1982,massachusetts,incumbent,0.6138172926328183,True,True
+14,1982,michigan,incumbent,0.5856184162968429,True,True
+15,1982,minnesota,,,,
+16,1982,mississippi,incumbent,0.6419880748993064,True,True
+17,1982,montana,incumbent,0.5665349100923376,True,True
+18,1982,nebraska,incumbent,0.6999479879023713,True,True
+19,1982,new hampshire,,,,
+20,1982,new jersey,challenger,0.5161471936448555,True,True
+21,1982,new mexico,challenger,0.5377386922259826,True,True
+22,1982,north carolina,,,,
+23,1982,oklahoma,,,,
+24,1982,oregon,,,,
+25,1982,rhode island,challenger,0.4880214016068709,True,True
+26,1982,south carolina,,,,
+27,1982,south dakota,,,,
+28,1982,tennessee,incumbent,0.6192577128092367,True,True
+29,1982,texas,incumbent,0.5912954937622399,True,True
+30,1982,virginia,challenger,0.48808401805837176,True,True
+31,1982,west virginia,incumbent,0.6900442004705212,True,True
+32,1982,wyoming,challenger,0.43343242160164125,True,True
+33,1982,arizona,incumbent,0.5854183274858289,True,True
+34,1982,california,challenger,0.4649089003001384,True,True
+35,1982,connecticut,challenger,0.4775908903460134,True,True
+36,1982,florida,incumbent,0.6172894277679168,True,True
+37,1982,hawaii,incumbent,0.8249461266670477,True,True
+38,1982,indiana,challenger,0.45851527175775075,True,True
+39,1982,maryland,incumbent,0.6345764293211565,True,True
+40,1982,missouri,challenger,0.4914975979993586,True,True
+41,1982,nevada,incumbent,0.48796879585873065,True,True
+42,1982,new york,incumbent,0.655752425687454,True,True
+43,1982,north dakota,incumbent,0.6486542842192645,True,True
+44,1982,ohio,incumbent,0.5793506932722432,True,True
+45,1982,pennsylvania,challenger,0.3980874985877827,True,True
+46,1982,utah,challenger,0.4150457438721365,True,True
+47,1982,vermont,challenger,0.484400757066976,True,True
+48,1982,washington,incumbent,0.7395832680213931,True,True
+49,1982,wisconsin,incumbent,0.6509122466514768,True,True
+50,1984,alabama,incumbent,0.633191885760789,True,True
+51,1984,alaska,challenger,0.28584066924942764,True,True
+52,1984,arkansas,incumbent,0.5734774349396545,True,True
+53,1984,colorado,challenger,0.35017550586526264,True,True
+54,1984,delaware,incumbent,0.6011051835466714,True,True
+55,1984,georgia,incumbent,0.7994432879319574,True,True
+56,1984,idaho,challenger,0.2647824386133847,True,True
+57,1984,illinois,challenger,0.5094853891598102,True,True
+58,1984,iowa,challenger,0.5595123253287378,True,True
+59,1984,kansas,challenger,0.21842062356949887,True,True
+60,1984,kentucky,incumbent,0.49794934424940707,True,True
+61,1984,louisiana,incumbent,0.9064091348041098,True,True
+62,1984,maine,challenger,0.2607231646680316,True,True
+63,1984,massachusetts,challenger,0.550631733027326,True,True
+64,1984,michigan,incumbent,0.5232891020348073,True,True
+65,1984,minnesota,challenger,0.4154600856403786,True,True
+66,1984,mississippi,challenger,0.39058010585566666,True,True
+67,1984,montana,incumbent,0.582964876814806,True,True
+68,1984,nebraska,incumbent,0.5196054203865091,True,True
+69,1984,new hampshire,challenger,0.4107938164503294,True,True
+70,1984,new jersey,incumbent,0.6478023597665798,True,True
+71,1984,new mexico,challenger,0.28103114853250144,True,True
+72,1984,north carolina,challenger,0.4806308749420812,True,True
+73,1984,oklahoma,incumbent,0.7635276957857847,True,True
+74,1984,oregon,challenger,0.3344566382875694,True,True
+75,1984,rhode island,incumbent,0.7255257139387561,True,True
+76,1984,south carolina,challenger,0.322528858569632,True,True
+77,1984,south dakota,challenger,0.2550956089866429,True,True
+78,1984,tennessee,challenger,0.6423935702028026,True,True
+79,1984,texas,challenger,0.41409970661254525,True,True
+80,1984,virginia,challenger,0.2994725347425643,True,True
+81,1984,west virginia,challenger,0.5205539474178378,True,True
+82,1984,wyoming,challenger,0.21682950058320583,True,True
+83,1984,arizona,,,,
+84,1984,california,,,,
+85,1984,connecticut,,,,
+86,1984,florida,,,,
+87,1984,hawaii,,,,
+88,1984,indiana,,,,
+89,1984,maryland,,,,
+90,1984,missouri,,,,
+91,1984,nevada,,,,
+92,1984,new york,,,,
+93,1984,north dakota,,,,
+94,1984,ohio,,,,
+95,1984,pennsylvania,,,,
+96,1984,utah,,,,
+97,1984,vermont,,,,
+98,1984,washington,,,,
+99,1984,wisconsin,,,,
+100,1986,alabama,challenger,0.5028150082061429,True,True
+101,1986,alaska,challenger,0.4494168578531124,True,True
+102,1986,arkansas,incumbent,0.6228073076563589,True,True
+103,1986,colorado,challenger,0.5078925178642861,True,True
+104,1986,delaware,,,,
+105,1986,georgia,challenger,0.5091701851833711,True,True
+106,1986,idaho,challenger,0.4844355328461039,True,True
+107,1986,illinois,incumbent,0.6587115147868011,True,True
+108,1986,iowa,challenger,0.3370603611899771,True,True
+109,1986,kansas,challenger,0.2995072647486662,True,True
+110,1986,kentucky,incumbent,0.7440131146572541,True,True
+111,1986,louisiana,challenger,0.5282046752420072,True,True
+112,1986,maine,,,,
+113,1986,massachusetts,,,,
+114,1986,michigan,,,,
+115,1986,minnesota,,,,
+116,1986,mississippi,,,,
+117,1986,montana,,,,
+118,1986,nebraska,,,,
+119,1986,new hampshire,challenger,0.3395623941881148,True,True
+120,1986,new jersey,,,,
+121,1986,new mexico,,,,
+122,1986,north carolina,challenger,0.5175934595589853,True,True
+123,1986,oklahoma,challenger,0.4478518820230377,True,True
+124,1986,oregon,challenger,0.36406595791684915,True,True
+125,1986,rhode island,,,,
+126,1986,south carolina,incumbent,0.6390842218274376,True,True
+127,1986,south dakota,challenger,0.5160294763884663,True,True
+128,1986,tennessee,,,,
+129,1986,texas,,,,
+130,1986,virginia,,,,
+131,1986,west virginia,,,,
+132,1986,wyoming,,,,
+133,1986,arizona,challenger,0.3951774134663862,True,True
+134,1986,california,incumbent,0.5072941747318903,True,True
+135,1986,connecticut,incumbent,0.6501629273696401,True,True
+136,1986,florida,challenger,0.5474015567131468,True,True
+137,1986,hawaii,incumbent,0.7356727707369592,True,True
+138,1986,indiana,challenger,0.38867524088458766,True,True
+139,1986,maryland,challenger,0.6068696321168828,True,True
+140,1986,missouri,challenger,0.47360340527850664,True,True
+141,1986,nevada,challenger,0.5289807360610113,True,True
+142,1986,new york,challenger,0.4201517867135058,True,True
+143,1986,north dakota,challenger,0.503736057593034,True,True
+144,1986,ohio,incumbent,0.6245257683106058,True,True
+145,1986,pennsylvania,challenger,0.43169130631259023,True,True
+146,1986,utah,challenger,0.2685763174474753,True,True
+147,1986,vermont,incumbent,0.6467400649225462,True,True
+148,1986,washington,challenger,0.5099894459659049,True,True
+149,1986,wisconsin,challenger,0.4822954630280144,True,True
+150,1988,alabama,,,,
+151,1988,alaska,,,,
+152,1988,arkansas,,,,
+153,1988,colorado,,,,
+154,1988,delaware,challenger,0.37938667641369567,True,True
+155,1988,georgia,,,,
+156,1988,idaho,,,,
+157,1988,illinois,,,,
+158,1988,iowa,,,,
+159,1988,kansas,,,,
+160,1988,kentucky,,,,
+161,1988,louisiana,,,,
+162,1988,maine,incumbent,0.8120420276021444,True,True
+163,1988,massachusetts,incumbent,0.6569431927470825,True,True
+164,1988,michigan,incumbent,0.6109130399147611,True,True
+165,1988,minnesota,,,,
+166,1988,mississippi,challenger,0.46089599976339335,True,True
+167,1988,montana,incumbent,0.4813335377572867,True,True
+168,1988,nebraska,challenger,0.5764627447040719,True,True
+169,1988,new hampshire,,,,
+170,1988,new jersey,incumbent,0.5423697269209673,True,True
+171,1988,new mexico,incumbent,0.6331243781485837,True,True
+172,1988,north carolina,,,,
+173,1988,oklahoma,,,,
+174,1988,oregon,,,,
+175,1988,rhode island,challenger,0.4540742229704264,True,True
+176,1988,south carolina,,,,
+177,1988,south dakota,,,,
+178,1988,tennessee,incumbent,0.6534270197694694,True,True
+179,1988,texas,incumbent,0.5966633289348013,True,True
+180,1988,virginia,challenger,0.7128978623017036,True,True
+181,1988,west virginia,incumbent,0.6476793681161521,True,True
+182,1988,wyoming,challenger,0.49634733980239165,True,True
+183,1988,arizona,incumbent,0.5800829715151041,True,True
+184,1988,california,challenger,0.4546078525558439,True,True
+185,1988,connecticut,challenger,0.5036742302039646,True,True
+186,1988,florida,challenger,0.49575698245462213,True,True
+187,1988,hawaii,incumbent,0.7872942386831275,True,True
+188,1988,indiana,challenger,0.3185714496668656,True,True
+189,1988,maryland,incumbent,0.6180269350647584,True,True
+190,1988,missouri,challenger,0.3192539061196318,True,True
+191,1988,nevada,challenger,0.5210933140190689,True,True
+192,1988,new york,incumbent,0.683381683951865,True,True
+193,1988,north dakota,incumbent,0.603501664115491,True,True
+194,1988,ohio,incumbent,0.569762959266708,True,True
+195,1988,pennsylvania,challenger,0.3280701376572631,True,True
+196,1988,utah,challenger,0.32104039289418473,True,True
+197,1988,vermont,challenger,0.3045477597882741,True,True
+198,1988,washington,challenger,0.48913305729596623,True,True
+199,1988,wisconsin,challenger,0.52273785180159,True,True
+200,1990,alabama,incumbent,0.6057481662509157,True,True
+201,1990,alaska,challenger,0.3270895067341328,True,True
+202,1990,arkansas,incumbent,1.0,True,False
+203,1990,colorado,challenger,0.42797403281483404,True,True
+204,1990,delaware,incumbent,0.6362581139560043,True,True
+205,1990,georgia,incumbent,1.0,True,False
+206,1990,idaho,challenger,0.38708789121847464,True,True
+207,1990,illinois,incumbent,0.6506840192494321,True,True
+208,1990,iowa,incumbent,0.545330693375551,True,True
+209,1990,kansas,challenger,0.26395122224257594,True,True
+210,1990,kentucky,challenger,0.47813451818211594,True,True
+211,1990,louisiana,incumbent,0.553485168268895,True,True
+212,1990,maine,challenger,0.38647687516819806,True,True
+213,1990,massachusetts,incumbent,0.5710254213526228,True,True
+214,1990,michigan,incumbent,0.5823079248316879,True,True
+215,1990,minnesota,challenger,0.5134048347926732,True,True
+216,1990,mississippi,challenger,0.0,False,True
+217,1990,montana,incumbent,0.6986631299394025,True,True
+218,1990,nebraska,incumbent,0.5900535094940552,True,True
+219,1990,new hampshire,challenger,0.3248022882269443,True,True
+220,1990,new jersey,incumbent,0.5155365891208024,True,True
+221,1990,new mexico,challenger,0.2705208422967707,True,True
+222,1990,north carolina,challenger,0.4744410567140863,True,True
+223,1990,oklahoma,incumbent,0.8317531526357324,True,True
+224,1990,oregon,challenger,0.4624935555154768,True,True
+225,1990,rhode island,incumbent,0.6183319965279686,True,True
+226,1990,south carolina,challenger,0.3361757447558611,True,True
+227,1990,south dakota,challenger,0.4624518143172391,True,True
+228,1990,tennessee,incumbent,0.6943464630572024,True,True
+229,1990,texas,challenger,0.3831335973140732,True,True
+230,1990,virginia,challenger,0.0,False,True
+231,1990,west virginia,incumbent,0.6832317186282633,True,True
+232,1990,wyoming,challenger,0.36063743402354853,True,True
+233,1990,arizona,,,,
+234,1990,california,,,,
+235,1990,connecticut,,,,
+236,1990,florida,,,,
+237,1990,hawaii,,,,
+238,1990,indiana,,,,
+239,1990,maryland,,,,
+240,1990,missouri,,,,
+241,1990,nevada,,,,
+242,1990,new york,,,,
+243,1990,north dakota,,,,
+244,1990,ohio,,,,
+245,1990,pennsylvania,,,,
+246,1990,utah,,,,
+247,1990,vermont,,,,
+248,1990,washington,,,,
+249,1990,wisconsin,,,,
+250,1992,alabama,challenger,0.6620634383215522,True,True
+251,1992,alaska,challenger,0.419950918678271,True,True
+252,1992,arkansas,incumbent,0.6017719411135556,True,True
+253,1992,colorado,challenger,0.5480125022330287,True,True
+254,1992,delaware,,,,
+255,1992,georgia,incumbent,0.5080519851968512,True,True
+256,1992,idaho,challenger,0.434763345760955,True,True
+257,1992,illinois,challenger,0.5530043534531496,True,True
+258,1992,iowa,challenger,0.2809516655185476,True,True
+259,1992,kansas,challenger,0.3310613759991513,True,True
+260,1992,kentucky,incumbent,0.6371473903152817,True,True
+261,1992,louisiana,incumbent,0.8979806328506852,True,True
+262,1992,maine,,,,
+263,1992,massachusetts,,,,
+264,1992,michigan,,,,
+265,1992,minnesota,,,,
+266,1992,mississippi,,,,
+267,1992,montana,,,,
+268,1992,nebraska,,,,
+269,1992,new hampshire,challenger,0.48492590383698636,True,True
+270,1992,new jersey,,,,
+271,1992,new mexico,,,,
+272,1992,north carolina,incumbent,0.4791571274529908,True,True
+273,1992,oklahoma,challenger,0.3947769811519646,True,True
+274,1992,oregon,challenger,0.4714124891513041,True,True
+275,1992,rhode island,,,,
+276,1992,south carolina,incumbent,0.5160910055404927,True,True
+277,1992,south dakota,incumbent,0.6662871208122076,True,True
+278,1992,tennessee,,,,
+279,1992,texas,,,,
+280,1992,virginia,,,,
+281,1992,west virginia,,,,
+282,1992,wyoming,,,,
+283,1992,arizona,challenger,0.3612778169702148,True,True
+284,1992,california,challenger,0.5269557915545768,True,True
+285,1992,connecticut,incumbent,0.6067413490260243,True,True
+286,1992,florida,incumbent,0.6540748115201922,True,True
+287,1992,hawaii,incumbent,0.68017662005134,True,True
+288,1992,indiana,challenger,0.41517443683928934,True,True
+289,1992,maryland,incumbent,0.7101566395010477,True,True
+290,1992,missouri,challenger,0.4640474799418212,True,True
+291,1992,nevada,incumbent,0.5593696347248891,True,True
+292,1992,new york,challenger,0.49353978143009797,True,True
+293,1992,north dakota,challenger,0.6028288219852173,True,True
+294,1992,ohio,incumbent,0.5465174539245591,True,True
+295,1992,pennsylvania,challenger,0.48547279554344436,True,True
+296,1992,utah,challenger,0.4176199263271579,True,True
+297,1992,vermont,incumbent,0.5554670227122634,True,True
+298,1992,washington,challenger,0.5399188390852361,True,True
+299,1992,wisconsin,challenger,0.5332738907084814,True,True
+300,1994,alabama,,,,
+301,1994,alaska,,,,
+302,1994,arkansas,,,,
+303,1994,colorado,,,,
+304,1994,delaware,challenger,0.43218736263174573,True,True
+305,1994,georgia,,,,
+306,1994,idaho,,,,
+307,1994,illinois,,,,
+308,1994,iowa,,,,
+309,1994,kansas,,,,
+310,1994,kentucky,,,,
+311,1994,louisiana,,,,
+312,1994,maine,challenger,0.3763853315691725,True,True
+313,1994,massachusetts,incumbent,0.5861118621343545,True,True
+314,1994,michigan,challenger,0.45176457515114266,True,True
+315,1994,minnesota,challenger,0.47342043326331673,True,True
+316,1994,mississippi,challenger,0.3120484800644647,True,True
+317,1994,montana,challenger,0.37628393747484923,True,True
+318,1994,nebraska,incumbent,0.5489899907433841,True,True
+319,1994,new hampshire,,,,
+320,1994,new jersey,incumbent,0.5168130113500266,True,True
+321,1994,new mexico,incumbent,0.5399167195808334,True,True
+322,1994,north carolina,,,,
+323,1994,oklahoma,,,,
+324,1994,oregon,,,,
+325,1994,rhode island,challenger,0.3547662339166387,True,True
+326,1994,south carolina,,,,
+327,1994,south dakota,,,,
+328,1994,tennessee,incumbent,0.4275890461715807,True,True
+329,1994,texas,challenger,0.38635238474275496,True,True
+330,1994,virginia,incumbent,0.5154244038605089,True,True
+331,1994,west virginia,incumbent,0.690116787350096,True,True
+332,1994,wyoming,challenger,0.4003564918375488,True,True
+333,1994,arizona,challenger,0.42405959124454123,True,True
+334,1994,california,incumbent,0.5103978526911331,True,True
+335,1994,connecticut,incumbent,0.6837244669043852,True,True
+336,1994,florida,challenger,0.29485293795239037,True,True
+337,1994,hawaii,incumbent,0.7479774254107191,True,True
+338,1994,indiana,challenger,0.31169989353982724,True,True
+339,1994,maryland,incumbent,0.5910193545371076,True,True
+340,1994,missouri,challenger,0.3741172456055627,True,True
+341,1994,nevada,incumbent,0.5540042993047932,True,True
+342,1994,new york,incumbent,0.5710091094661336,True,True
+343,1994,north dakota,incumbent,0.5798298012657104,True,True
+344,1994,ohio,challenger,0.423331488092229,True,True
+345,1994,pennsylvania,incumbent,0.4871150166126308,True,True
+346,1994,utah,challenger,0.291407776136127,True,True
+347,1994,vermont,challenger,0.44636201545954995,True,True
+348,1994,washington,challenger,0.44251496759447423,True,True
+349,1994,wisconsin,incumbent,0.58894680157016,True,True
+350,1996,alabama,challenger,0.4643124011042942,True,True
+351,1996,alaska,challenger,0.11877445881012533,True,True
+352,1996,arkansas,challenger,0.4729957940540049,True,True
+353,1996,colorado,challenger,0.4745347269639512,True,True
+354,1996,delaware,incumbent,0.6115807254031558,True,True
+355,1996,georgia,challenger,0.5068926822414717,True,True
+356,1996,idaho,challenger,0.41170319159089874,True,True
+357,1996,illinois,challenger,0.5796532430537252,True,True
+358,1996,iowa,incumbent,0.5258542272505272,True,True
+359,1996,kansas,challenger,0.35700458200869506,True,True
+360,1996,kentucky,challenger,0.4358728088131593,True,True
+361,1996,louisiana,challenger,0.5017022508061281,True,True
+362,1996,maine,challenger,0.47149020274578146,True,True
+363,1996,massachusetts,incumbent,0.5386544064989977,True,True
+364,1996,michigan,incumbent,0.594110032782769,True,True
+365,1996,minnesota,incumbent,0.5493082971834331,True,True
+366,1996,mississippi,challenger,0.27826864215004377,True,True
+367,1996,montana,incumbent,0.5258094082479703,True,True
+368,1996,nebraska,challenger,0.425941734898472,True,True
+369,1996,new hampshire,challenger,0.4841313942273915,True,True
+370,1996,new jersey,challenger,0.5530570828987913,True,True
+371,1996,new mexico,challenger,0.3151437988828958,True,True
+372,1996,north carolina,challenger,0.46587739531723515,True,True
+373,1996,oklahoma,challenger,0.4141977616503548,True,True
+374,1996,oregon,challenger,0.4796551602281928,True,True
+375,1996,rhode island,challenger,0.6442671850387103,True,True
+376,1996,south carolina,challenger,0.451845137556265,True,True
+377,1996,south dakota,challenger,0.5132193277388617,True,True
+378,1996,tennessee,challenger,0.37500164615792464,True,True
+379,1996,texas,challenger,0.4451196894101226,True,True
+380,1996,virginia,challenger,0.4745374248530654,True,True
+381,1996,west virginia,incumbent,0.7664796327823054,True,True
+382,1996,wyoming,challenger,0.4384580181971174,True,True
+383,1996,arizona,,,,
+384,1996,california,,,,
+385,1996,connecticut,,,,
+386,1996,florida,,,,
+387,1996,hawaii,,,,
+388,1996,indiana,,,,
+389,1996,maryland,,,,
+390,1996,missouri,,,,
+391,1996,nevada,,,,
+392,1996,new york,,,,
+393,1996,north dakota,,,,
+394,1996,ohio,,,,
+395,1996,pennsylvania,,,,
+396,1996,utah,,,,
+397,1996,vermont,,,,
+398,1996,washington,,,,
+399,1996,wisconsin,,,,
+400,1998,alabama,challenger,0.3671589527914395,True,True
+401,1998,alaska,challenger,0.20932669761209743,True,True
+402,1998,arkansas,challenger,0.5660126615699642,True,True
+403,1998,colorado,challenger,0.35912632792529925,True,True
+404,1998,delaware,,,,
+405,1998,georgia,challenger,0.4629815416348036,True,True
+406,1998,idaho,challenger,0.28993549188450646,True,True
+407,1998,illinois,incumbent,0.4851568155438545,True,True
+408,1998,iowa,challenger,0.3083093962960079,True,True
+409,1998,kansas,challenger,0.32613859165167663,True,True
+410,1998,kentucky,challenger,0.49701377389069157,True,True
+411,1998,louisiana,incumbent,0.6692805015111345,True,True
+412,1998,maine,,,,
+413,1998,massachusetts,,,,
+414,1998,michigan,,,,
+415,1998,minnesota,,,,
+416,1998,mississippi,,,,
+417,1998,montana,,,,
+418,1998,nebraska,,,,
+419,1998,new hampshire,challenger,0.29396414869691756,True,True
+420,1998,new jersey,,,,
+421,1998,new mexico,,,,
+422,1998,north carolina,challenger,0.5210851669214958,True,True
+423,1998,oklahoma,challenger,0.32027680506920125,True,True
+424,1998,oregon,incumbent,0.6436975788651567,True,True
+425,1998,rhode island,,,,
+426,1998,south carolina,incumbent,0.5355206803923789,True,True
+427,1998,south dakota,incumbent,0.6305634593422759,True,True
+428,1998,tennessee,,,,
+429,1998,texas,,,,
+430,1998,virginia,,,,
+431,1998,west virginia,,,,
+432,1998,wyoming,,,,
+433,1998,arizona,challenger,0.283210245719031,True,True
+434,1998,california,incumbent,0.5522876905219493,True,True
+435,1998,connecticut,incumbent,0.6680673653856583,True,True
+436,1998,florida,incumbent,0.6246937947705762,True,True
+437,1998,hawaii,incumbent,0.8162582596267374,True,True
+438,1998,indiana,challenger,0.6468111971046201,True,True
+439,1998,maryland,incumbent,0.705039712838992,True,True
+440,1998,missouri,challenger,0.45383549673106777,True,True
+441,1998,nevada,incumbent,0.5005133470225873,True,True
+442,1998,new york,challenger,0.5533699937939976,True,True
+443,1998,north dakota,incumbent,0.6423865369946605,True,True
+444,1998,ohio,challenger,0.4353679827010691,True,True
+445,1998,pennsylvania,challenger,0.36188256216367176,True,True
+446,1998,utah,challenger,0.34006635766447696,True,True
+447,1998,vermont,incumbent,0.7628493026285917,True,True
+448,1998,washington,incumbent,0.584139988064987,True,True
+449,1998,wisconsin,incumbent,0.5108438063720384,True,True
+450,2000,alabama,,,,
+451,2000,alaska,,,,
+452,2000,arkansas,,,,
+453,2000,colorado,,,,
+454,2000,delaware,challenger,0.5595995771396518,True,True
+455,2000,georgia,,,,
+456,2000,idaho,,,,
+457,2000,illinois,,,,
+458,2000,iowa,,,,
+459,2000,kansas,,,,
+460,2000,kentucky,,,,
+461,2000,louisiana,,,,
+462,2000,maine,challenger,0.31058701596542293,True,True
+463,2000,massachusetts,incumbent,0.849655662403011,True,True
+464,2000,michigan,challenger,0.5082899785413809,True,True
+465,2000,minnesota,challenger,0.5300756787602842,True,True
+466,2000,mississippi,challenger,0.3241279174763243,True,True
+467,2000,montana,challenger,0.4830414993838693,True,True
+468,2000,nebraska,challenger,0.5109468876978109,True,True
+469,2000,new hampshire,,,,
+470,2000,new jersey,challenger,0.5155159262958536,True,True
+471,2000,new mexico,incumbent,0.6172884341573598,True,True
+472,2000,north carolina,,,,
+473,2000,oklahoma,,,,
+474,2000,oregon,,,,
+475,2000,rhode island,challenger,0.4197559506896309,True,True
+476,2000,south carolina,,,,
+477,2000,south dakota,,,,
+478,2000,tennessee,challenger,0.33099932004544397,True,True
+479,2000,texas,challenger,0.3321629813202853,True,True
+480,2000,virginia,incumbent,0.4771094103446537,True,True
+481,2000,west virginia,incumbent,0.7941355674028941,True,True
+482,2000,wyoming,challenger,0.23001919798347897,True,True
+483,2000,arizona,challenger,0.0,False,True
+484,2000,california,incumbent,0.6041649290306155,True,True
+485,2000,connecticut,incumbent,0.6491116925180446,True,True
+486,2000,florida,challenger,0.5249470792393458,True,True
+487,2000,hawaii,incumbent,0.7478506531394753,True,True
+488,2000,indiana,challenger,0.3236393985080643,True,True
+489,2000,maryland,incumbent,0.6323353336510399,True,True
+490,2000,missouri,challenger,0.5104854488697302,True,True
+491,2000,nevada,challenger,0.4187736291781132,True,True
+492,2000,new york,challenger,0.5624024469311305,True,True
+493,2000,north dakota,incumbent,0.6137254424617182,True,True
+494,2000,ohio,challenger,0.37437784263074164,True,True
+495,2000,pennsylvania,challenger,0.464733322262647,True,True
+496,2000,utah,challenger,0.32456260068613757,True,True
+497,2000,vermont,challenger,0.27945215917100025,True,True
+498,2000,washington,challenger,0.5004650250662905,True,True
+499,2000,wisconsin,incumbent,0.624300813663996,True,True
+500,2002,alabama,challenger,0.4047335251558652,True,True
+501,2002,alaska,challenger,0.1185483197508486,True,True
+502,2002,arkansas,challenger,0.5389652954939245,True,True
+503,2002,colorado,challenger,0.47446492482191005,True,True
+504,2002,delaware,incumbent,0.58793893395234,True,True
+505,2002,georgia,incumbent,0.46523592297940725,True,True
+506,2002,idaho,challenger,0.33311205190510784,True,True
+507,2002,illinois,incumbent,0.6134378237563891,True,True
+508,2002,iowa,incumbent,0.553077821128152,True,True
+509,2002,kansas,challenger,0.0,False,True
+510,2002,kentucky,challenger,0.3532479517162801,True,True
+511,2002,louisiana,,,,
+512,2002,maine,challenger,0.41564352474455285,True,True
+513,2002,massachusetts,incumbent,1.0,True,False
+514,2002,michigan,incumbent,0.6153524201704065,True,True
+515,2002,minnesota,challenger,0.48867850488771913,True,True
+516,2002,mississippi,challenger,0.0,False,True
+517,2002,montana,incumbent,0.6641066704704601,True,True
+518,2002,nebraska,challenger,0.15027964971094313,True,True
+519,2002,new hampshire,challenger,0.47728239940925726,True,True
+520,2002,new jersey,challenger,0.5507477867370678,True,True
+521,2002,new mexico,challenger,0.34973103819257667,True,True
+522,2002,north carolina,challenger,0.4563100032351511,True,True
+523,2002,oklahoma,challenger,0.38787645484220157,True,True
+524,2002,oregon,challenger,0.41336204944057126,True,True
+525,2002,rhode island,incumbent,0.7841866814081402,True,True
+526,2002,south carolina,challenger,0.4482001969892465,True,True
+527,2002,south dakota,incumbent,0.5007834037998075,True,True
+528,2002,tennessee,challenger,0.44964391883757326,True,True
+529,2002,texas,challenger,0.43929864346391656,True,True
+530,2002,virginia,challenger,0.0,False,True
+531,2002,west virginia,incumbent,0.6311135463784696,True,True
+532,2002,wyoming,challenger,0.27046049759930163,True,True
+533,2002,arizona,,,,
+534,2002,california,,,,
+535,2002,connecticut,,,,
+536,2002,florida,,,,
+537,2002,hawaii,,,,
+538,2002,indiana,,,,
+539,2002,maryland,,,,
+540,2002,missouri,,,,
+541,2002,nevada,,,,
+542,2002,new york,,,,
+543,2002,north dakota,,,,
+544,2002,ohio,,,,
+545,2002,pennsylvania,,,,
+546,2002,utah,,,,
+547,2002,vermont,,,,
+548,2002,washington,,,,
+549,2002,wisconsin,,,,
+550,2004,alabama,challenger,0.32386902370867254,True,True
+551,2004,alaska,challenger,0.48389197682953305,True,True
+552,2004,arkansas,incumbent,0.559160700244175,True,True
+553,2004,colorado,challenger,0.5243760960998246,True,True
+554,2004,delaware,,,,
+555,2004,georgia,challenger,0.40854508974292264,True,True
+556,2004,idaho,challenger,0.0,False,True
+557,2004,illinois,challenger,0.7212010233862441,True,True
+558,2004,iowa,challenger,0.2842837839701077,True,True
+559,2004,kansas,challenger,0.28439974340175955,True,True
+560,2004,kentucky,challenger,0.4934317736067021,True,True
+561,2004,louisiana,challenger,0.3650438604760148,True,True
+562,2004,maine,,,,
+563,2004,massachusetts,,,,
+564,2004,michigan,,,,
+565,2004,minnesota,,,,
+566,2004,mississippi,,,,
+567,2004,montana,,,,
+568,2004,nebraska,,,,
+569,2004,new hampshire,challenger,0.33752338527352393,True,True
+570,2004,new jersey,,,,
+571,2004,new mexico,,,,
+572,2004,north carolina,challenger,0.4767926303243275,True,True
+573,2004,oklahoma,challenger,0.4387277300186813,True,True
+574,2004,oregon,incumbent,0.6663164071400994,True,True
+575,2004,rhode island,,,,
+576,2004,south carolina,challenger,0.45107972778346656,True,True
+577,2004,south dakota,incumbent,0.4942380645623076,True,True
+578,2004,tennessee,,,,
+579,2004,texas,,,,
+580,2004,virginia,,,,
+581,2004,west virginia,,,,
+582,2004,wyoming,,,,
+583,2004,arizona,challenger,0.21179718715164678,True,True
+584,2004,california,incumbent,0.6042337979351353,True,True
+585,2004,connecticut,incumbent,0.6737578896953594,True,True
+586,2004,florida,challenger,0.4943093583769387,True,True
+587,2004,hawaii,incumbent,0.7825055326708267,True,True
+588,2004,indiana,incumbent,0.6235090418590781,True,True
+589,2004,maryland,incumbent,0.6577176836939066,True,True
+590,2004,missouri,challenger,0.4327763558577914,True,True
+591,2004,nevada,incumbent,0.6348170813848315,True,True
+592,2004,new york,incumbent,0.7458801890821316,True,True
+593,2004,north dakota,incumbent,0.6827992635888457,True,True
+594,2004,ohio,challenger,0.361460587183693,True,True
+595,2004,pennsylvania,challenger,0.4438171845712071,True,True
+596,2004,utah,challenger,0.2924079291323912,True,True
+597,2004,vermont,incumbent,0.7421144440264049,True,True
+598,2004,washington,incumbent,0.5626520354414128,True,True
+599,2004,wisconsin,incumbent,0.5564975390949869,True,True
+600,2006,alabama,,,,
+601,2006,alaska,,,,
+602,2006,arkansas,,,,
+603,2006,colorado,,,,
+604,2006,delaware,incumbent,0.7098056187864387,True,True
+605,2006,georgia,,,,
+606,2006,idaho,,,,
+607,2006,illinois,,,,
+608,2006,iowa,,,,
+609,2006,kansas,,,,
+610,2006,kentucky,,,,
+611,2006,louisiana,,,,
+612,2006,maine,challenger,0.21762129262197277,True,True
+613,2006,massachusetts,incumbent,0.6940567089216425,True,True
+614,2006,michigan,incumbent,0.5797225721696365,True,True
+615,2006,minnesota,challenger,0.6047991441956546,True,True
+616,2006,mississippi,challenger,0.35417418386129673,True,True
+617,2006,montana,challenger,0.5044960214880039,True,True
+618,2006,nebraska,incumbent,0.638827922933029,True,True
+619,2006,new hampshire,,,,
+620,2006,new jersey,incumbent,0.5461808281384033,True,True
+621,2006,new mexico,incumbent,0.7065054793072623,True,True
+622,2006,north carolina,,,,
+623,2006,oklahoma,,,,
+624,2006,oregon,,,,
+625,2006,rhode island,challenger,0.5351963459885591,True,True
+626,2006,south carolina,,,,
+627,2006,south dakota,,,,
+628,2006,tennessee,challenger,0.48620493986641156,True,True
+629,2006,texas,challenger,0.36879424215038636,True,True
+630,2006,virginia,challenger,0.5019917732867099,True,True
+631,2006,west virginia,incumbent,0.6564669335879944,True,True
+632,2006,wyoming,challenger,0.29905364411833335,True,True
+633,2006,arizona,challenger,0.44918733966435787,True,True
+634,2006,california,incumbent,0.6292573636336478,True,True
+635,2006,connecticut,challenger,0.8050181950639417,True,True
+636,2006,florida,incumbent,0.6128359490530936,True,True
+637,2006,hawaii,incumbent,0.6251876335728107,True,True
+638,2006,indiana,challenger,0.0,False,True
+639,2006,maryland,challenger,0.5508641441375647,True,True
+640,2006,missouri,challenger,0.5117142114522577,True,True
+641,2006,nevada,challenger,0.4254360882028587,True,True
+642,2006,new york,incumbent,0.683637771703377,True,True
+643,2006,north dakota,incumbent,0.6997758234178306,True,True
+644,2006,ohio,challenger,0.561757323675109,True,True
+645,2006,pennsylvania,challenger,0.5868375839492349,True,True
+646,2006,utah,challenger,0.33250889549688306,True,True
+647,2006,vermont,incumbent,0.0,False,True
+648,2006,washington,incumbent,0.5874055727861204,True,True
+649,2006,wisconsin,incumbent,0.6954360760236828,True,True
+650,2008,alabama,challenger,0.3656334466272778,True,True
+651,2008,alaska,challenger,0.506597547908579,True,True
+652,2008,arkansas,incumbent,1.0,True,False
+653,2008,colorado,challenger,0.5540690952020246,True,True
+654,2008,delaware,incumbent,0.6468651258119126,True,True
+655,2008,georgia,challenger,0.4848662846359074,True,True
+656,2008,idaho,challenger,0.3716793966672695,True,True
+657,2008,illinois,incumbent,0.7039557360947656,True,True
+658,2008,iowa,incumbent,0.6270781016614159,True,True
+659,2008,kansas,challenger,0.37774192996268785,True,True
+660,2008,kentucky,challenger,0.4703438042981507,True,True
+661,2008,louisiana,incumbent,0.5326388121640011,True,True
+662,2008,maine,challenger,0.3861648775231069,True,True
+663,2008,massachusetts,incumbent,0.6804560910249695,True,True
+664,2008,michigan,incumbent,0.6493032523438622,True,True
+665,2008,minnesota,challenger,0.50006433132944,True,True
+666,2008,mississippi,challenger,0.3856495373793329,True,True
+667,2008,montana,incumbent,0.7291597754041594,True,True
+668,2008,nebraska,challenger,0.4105158345294901,True,True
+669,2008,new hampshire,challenger,0.5327231842292607,True,True
+670,2008,new jersey,incumbent,0.5718285596893304,True,True
+671,2008,new mexico,challenger,0.6132799125842288,True,True
+672,2008,north carolina,challenger,0.5437293515963103,True,True
+673,2008,oklahoma,challenger,0.4087456461915358,True,True
+674,2008,oregon,challenger,0.5177392005395463,True,True
+675,2008,rhode island,incumbent,0.7340448424744401,True,True
+676,2008,south carolina,challenger,0.4234361903537735,True,True
+677,2008,south dakota,incumbent,0.6249169234487342,True,True
+678,2008,tennessee,challenger,0.3269407038696253,True,True
+679,2008,texas,challenger,0.4386486108023027,True,True
+680,2008,virginia,challenger,0.6584834958563509,True,True
+681,2008,west virginia,incumbent,0.6373782557117813,True,True
+682,2008,wyoming,challenger,0.24283774636830785,True,True
+683,2008,arizona,,,,
+684,2008,california,,,,
+685,2008,connecticut,,,,
+686,2008,florida,,,,
+687,2008,hawaii,,,,
+688,2008,indiana,,,,
+689,2008,maryland,,,,
+690,2008,missouri,,,,
+691,2008,nevada,,,,
+692,2008,new york,,,,
+693,2008,north dakota,,,,
+694,2008,ohio,,,,
+695,2008,pennsylvania,,,,
+696,2008,utah,,,,
+697,2008,vermont,,,,
+698,2008,washington,,,,
+699,2008,wisconsin,,,,
+700,2010,alabama,challenger,0.34749898908208654,True,True
+701,2010,alaska,challenger,0.39795472018239175,True,True
+702,2010,arkansas,incumbent,0.38951896119625723,True,True
+703,2010,colorado,incumbent,0.5089004057222678,True,True
+704,2010,delaware,,,,
+705,2010,georgia,challenger,0.4007834557315337,True,True
+706,2010,idaho,challenger,0.25938519941668015,True,True
+707,2010,illinois,challenger,0.4915355888325802,True,True
+708,2010,iowa,challenger,0.34102730431479555,True,True
+709,2010,kansas,challenger,0.2734295535707657,True,True
+710,2010,kentucky,challenger,0.4426055927523549,True,True
+711,2010,louisiana,challenger,0.3998130852098219,True,True
+712,2010,maine,,,,
+713,2010,massachusetts,,,,
+714,2010,michigan,,,,
+715,2010,minnesota,,,,
+716,2010,mississippi,,,,
+717,2010,montana,,,,
+718,2010,nebraska,,,,
+719,2010,new hampshire,challenger,0.38012491974144835,True,True
+720,2010,new jersey,,,,
+721,2010,new mexico,,,,
+722,2010,north carolina,challenger,0.43988521466547836,True,True
+723,2010,oklahoma,challenger,0.2700549428220779,True,True
+724,2010,oregon,incumbent,0.5931619178188496,True,True
+725,2010,rhode island,,,,
+726,2010,south carolina,challenger,0.31019875460387336,True,True
+727,2010,south dakota,challenger,0.0,False,True
+728,2010,tennessee,,,,
+729,2010,texas,,,,
+730,2010,virginia,,,,
+731,2010,west virginia,,,,
+732,2010,wyoming,,,,
+733,2010,arizona,challenger,0.3705566884865419,True,True
+734,2010,california,incumbent,0.5530310296525164,True,True
+735,2010,connecticut,challenger,0.5606934530814602,True,True
+736,2010,florida,challenger,0.29233213121533036,True,True
+737,2010,hawaii,incumbent,0.7761859298311434,True,True
+738,2010,indiana,challenger,0.42292187786950775,True,True
+739,2010,maryland,incumbent,0.6349698835929467,True,True
+740,2010,missouri,challenger,0.4282974744779532,True,True
+741,2010,nevada,incumbent,0.530274239709068,True,True
+742,2010,new york,incumbent,0.6730733345361386,True,True
+743,2010,north dakota,challenger,0.22568231022314655,True,True
+744,2010,ohio,challenger,0.4093902597439733,True,True
+745,2010,pennsylvania,challenger,0.4899150530927598,True,True
+746,2010,utah,challenger,0.3473783335340479,True,True
+747,2010,vermont,incumbent,0.6754219126707742,True,True
+748,2010,washington,incumbent,0.523648258488133,True,True
+749,2010,wisconsin,incumbent,0.47553723712212215,True,True
+750,2012,alabama,,,,
+751,2012,alaska,,,,
+752,2012,arkansas,,,,
+753,2012,colorado,,,,
+754,2012,delaware,incumbent,0.6964170919538721,True,True
+755,2012,georgia,,,,
+756,2012,idaho,,,,
+757,2012,illinois,,,,
+758,2012,iowa,,,,
+759,2012,kansas,,,,
+760,2012,kentucky,,,,
+761,2012,louisiana,,,,
+762,2012,maine,challenger,0.30133085089474826,True,True
+763,2012,massachusetts,challenger,0.5377723898790069,True,True
+764,2012,michigan,incumbent,0.6075276935662811,True,True
+765,2012,minnesota,incumbent,0.6811930202687241,True,True
+766,2012,mississippi,challenger,0.41502753704786033,True,True
+767,2012,montana,incumbent,0.5198954585687424,True,True
+768,2012,nebraska,challenger,0.42225567227849836,True,True
+769,2012,new hampshire,,,,
+770,2012,new jersey,incumbent,0.5989955924068258,True,True
+771,2012,new mexico,challenger,0.5297586535578117,True,True
+772,2012,north carolina,,,,
+773,2012,oklahoma,,,,
+774,2012,oregon,,,,
+775,2012,rhode island,incumbent,0.64956285829323,True,True
+776,2012,south carolina,,,,
+777,2012,south dakota,,,,
+778,2012,tennessee,challenger,0.3190679488773123,True,True
+779,2012,texas,challenger,0.4184545145921501,True,True
+780,2012,virginia,challenger,0.5295769400905098,True,True
+781,2012,west virginia,incumbent,0.624178431234831,True,True
+782,2012,wyoming,challenger,0.2225174067965199,True,True
+783,2012,arizona,challenger,0.48413941342335987,True,True
+784,2012,california,incumbent,0.625242844721446,True,True
+785,2012,connecticut,challenger,0.5600304084873466,True,True
+786,2012,florida,incumbent,0.5667264867037397,True,True
+787,2012,hawaii,challenger,0.626015429180711,True,True
+788,2012,indiana,challenger,0.530553229622967,True,True
+789,2012,maryland,incumbent,0.6801158481977042,True,True
+790,2012,missouri,incumbent,0.5835778374586569,True,True
+791,2012,nevada,challenger,0.49359547478467164,True,True
+792,2012,new york,incumbent,0.7327619741098357,True,True
+793,2012,north dakota,challenger,0.5045093834619419,True,True
+794,2012,ohio,incumbent,0.5314530334440897,True,True
+795,2012,pennsylvania,incumbent,0.5463097704075729,True,True
+796,2012,utah,challenger,0.31462113371708245,True,True
+797,2012,vermont,incumbent,0.0,False,True
+798,2012,washington,incumbent,0.6045099118171301,True,True
+799,2012,wisconsin,challenger,0.5285215032641781,True,True
+800,2014,alabama,challenger,0.0,False,True
+801,2014,alaska,incumbent,0.48864751808393364,True,True
+802,2014,arkansas,incumbent,0.4110416694854691,True,True
+803,2014,colorado,incumbent,0.4897079706694798,True,True
+804,2014,delaware,incumbent,0.5693574111679551,True,True
+805,2014,georgia,challenger,0.4608406291796535,True,True
+806,2014,idaho,challenger,0.34671638035546815,True,True
+807,2014,illinois,incumbent,0.5563865439848634,True,True
+808,2014,iowa,challenger,0.4565051780099636,True,True
+809,2014,kansas,challenger,0.0,False,True
+810,2014,kentucky,challenger,0.4201971275292224,True,True
+811,2014,louisiana,,,,
+812,2014,maine,challenger,0.315109674876064,True,True
+813,2014,massachusetts,incumbent,0.6196011900701957,True,True
+814,2014,michigan,challenger,0.5692351096027392,True,True
+815,2014,minnesota,incumbent,0.5533189522924906,True,True
+816,2014,mississippi,challenger,0.3874919083376489,True,True
+817,2014,montana,challenger,0.4094690972193438,True,True
+818,2014,nebraska,challenger,0.32858083717840014,True,True
+819,2014,new hampshire,incumbent,0.5162754274650536,True,True
+820,2014,new jersey,incumbent,0.5688137783946167,True,True
+821,2014,new mexico,incumbent,0.5555881017873701,True,True
+822,2014,north carolina,incumbent,0.49185836031861074,True,True
+823,2014,oklahoma,challenger,0.29566559365429484,True,True
+824,2014,oregon,incumbent,0.6018520981480496,True,True
+825,2014,rhode island,incumbent,0.7070290397933993,True,True
+826,2014,south carolina,challenger,0.4167985412618709,True,True
+827,2014,south dakota,challenger,0.3694314887744907,True,True
+828,2014,tennessee,challenger,0.33996125580871706,True,True
+829,2014,texas,challenger,0.35824543084219085,True,True
+830,2014,virginia,incumbent,0.5041620355304993,True,True
+831,2014,west virginia,challenger,0.3568396549363275,True,True
+832,2014,wyoming,challenger,0.19463860969582128,True,True
+833,2014,arizona,,,,
+834,2014,california,,,,
+835,2014,connecticut,,,,
+836,2014,florida,,,,
+837,2014,hawaii,incumbent,0.7157686819115241,True,True
+838,2014,indiana,,,,
+839,2014,maryland,,,,
+840,2014,missouri,,,,
+841,2014,nevada,,,,
+842,2014,new york,,,,
+843,2014,north dakota,,,,
+844,2014,ohio,,,,
+845,2014,pennsylvania,,,,
+846,2014,utah,,,,
+847,2014,vermont,,,,
+848,2014,washington,,,,
+849,2014,wisconsin,,,,
+850,2016,alabama,challenger,0.3592975953216531,True,True
+851,2016,alaska,challenger,0.20762952468898588,True,True
+852,2016,arkansas,challenger,0.37700666110790093,True,True
+853,2016,colorado,incumbent,0.5300445316137335,True,True
+854,2016,delaware,,,,
+855,2016,georgia,challenger,0.4282458295096923,True,True
+856,2016,idaho,challenger,0.29540097855526576,True,True
+857,2016,illinois,challenger,0.5796755137724255,True,True
+858,2016,iowa,challenger,0.37239734944936076,True,True
+859,2016,kansas,challenger,0.3414571861208723,True,True
+860,2016,kentucky,challenger,0.4272544778538454,True,True
+861,2016,louisiana,challenger,0.39345389798949554,True,True
+862,2016,maine,,,,
+863,2016,massachusetts,,,,
+864,2016,michigan,,,,
+865,2016,minnesota,,,,
+866,2016,mississippi,,,,
+867,2016,montana,,,,
+868,2016,nebraska,,,,
+869,2016,new hampshire,challenger,0.5007179353956974,True,True
+870,2016,new jersey,,,,
+871,2016,new mexico,,,,
+872,2016,north carolina,challenger,0.47046439946051116,True,True
+873,2016,oklahoma,challenger,0.26624042585182706,True,True
+874,2016,oregon,incumbent,0.6292582100812822,True,True
+875,2016,rhode island,,,,
+876,2016,south carolina,challenger,0.3787702682486162,True,True
+877,2016,south dakota,challenger,0.28172138420585624,True,True
+878,2016,tennessee,,,,
+879,2016,texas,,,,
+880,2016,virginia,,,,
+881,2016,west virginia,,,,
+882,2016,wyoming,,,,
+883,2016,arizona,challenger,0.431390848487688,True,True
+884,2016,california,challenger,1.0,True,False
+885,2016,connecticut,incumbent,0.6460586613378936,True,True
+886,2016,florida,challenger,0.4601942174626915,True,True
+887,2016,hawaii,incumbent,0.7679364419409053,True,True
+888,2016,indiana,challenger,0.44869330971165394,True,True
+889,2016,maryland,challenger,0.6305525925520729,True,True
+890,2016,missouri,challenger,0.4853923121204723,True,True
+891,2016,nevada,challenger,0.513231596945352,True,True
+892,2016,new york,incumbent,0.7221308754995643,True,True
+893,2016,north dakota,challenger,0.1777769620439028,True,True
+894,2016,ohio,challenger,0.3903660950351629,True,True
+895,2016,pennsylvania,challenger,0.49254819817512085,True,True
+896,2016,utah,challenger,0.28421025872304045,True,True
+897,2016,vermont,incumbent,0.64973299986481,True,True
+898,2016,washington,challenger,0.5901301044578745,True,True
+899,2016,wisconsin,challenger,0.48266735575769826,True,True
+900,2018,alabama,,,,
+901,2018,alaska,,,,
+902,2018,arkansas,,,,
+903,2018,colorado,,,,
+904,2018,delaware,incumbent,0.6131950399422305,True,True
+905,2018,georgia,,,,
+906,2018,idaho,,,,
+907,2018,illinois,,,,
+908,2018,iowa,,,,
+909,2018,kansas,,,,
+910,2018,kentucky,,,,
+911,2018,louisiana,,,,
+912,2018,maine,challenger,0.2286917210201194,True,True
+913,2018,massachusetts,incumbent,0.625194395886673,True,True
+914,2018,michigan,incumbent,0.5331856915567781,True,True
+915,2018,minnesota,incumbent,0.6248173330444972,True,True
+916,2018,mississippi,challenger,0.4029357186001531,True,True
+917,2018,montana,incumbent,0.5182845792188862,True,True
+918,2018,nebraska,challenger,0.40102485930099185,True,True
+919,2018,new hampshire,,,,
+920,2018,new jersey,incumbent,0.5577220529493396,True,True
+921,2018,new mexico,incumbent,0.6391844167029778,True,True
+922,2018,north carolina,,,,
+923,2018,oklahoma,,,,
+924,2018,oregon,,,,
+925,2018,rhode island,incumbent,0.6157973705632911,True,True
+926,2018,south carolina,,,,
+927,2018,south dakota,,,,
+928,2018,tennessee,challenger,0.44531397923027943,True,True
+929,2018,texas,challenger,0.4870625925138918,True,True
+930,2018,virginia,incumbent,0.5815995029048465,True,True
+931,2018,west virginia,incumbent,0.5172687016023204,True,True
+932,2018,wyoming,challenger,0.3101090474429818,True,True
+933,2018,arizona,challenger,0.512014787430684,True,True
+934,2018,california,incumbent,1.0,True,False
+935,2018,connecticut,incumbent,0.6020428849788813,True,True
+936,2018,florida,incumbent,0.49938740821961036,True,True
+937,2018,hawaii,incumbent,0.7115109784705074,True,True
+938,2018,indiana,incumbent,0.46918548391902465,True,True
+939,2018,maryland,incumbent,0.6815283161026231,True,True
+940,2018,missouri,incumbent,0.4700168337512913,True,True
+941,2018,nevada,challenger,0.526237741242364,True,True
+942,2018,new york,incumbent,0.6699966689517735,True,True
+943,2018,north dakota,incumbent,0.44547294628751977,True,True
+944,2018,ohio,incumbent,0.5342367126950675,True,True
+945,2018,pennsylvania,incumbent,0.566729344862333,True,True
+946,2018,utah,challenger,0.33060529949001566,True,True
+947,2018,vermont,incumbent,0.0,False,True
+948,2018,washington,incumbent,0.5843375992492955,True,True
+949,2018,wisconsin,incumbent,0.5541856250228102,True,True
